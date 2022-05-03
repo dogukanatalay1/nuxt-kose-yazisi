@@ -1,0 +1,44 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "C:\\\\Users\\\\doguk\\\\OneDrive\\\\Masaüstü\\\\nuxt-kose-yazisi\\\\pages\\\\admin\\\\index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_54b378ae"
+  },
+  {
+    "name": "posts",
+    "path": "/posts",
+    "component": "C:\\\\Users\\\\doguk\\\\OneDrive\\\\Masaüstü\\\\nuxt-kose-yazisi\\\\pages\\\\posts\\\\index.vue",
+    "chunkName": "pages/posts/index",
+    "_name": "_ca27deb6"
+  },
+  {
+    "name": "admin-new-post",
+    "path": "/admin/new-post",
+    "component": "C:\\\\Users\\\\doguk\\\\OneDrive\\\\Masaüstü\\\\nuxt-kose-yazisi\\\\pages\\\\admin\\\\new-post.vue",
+    "chunkName": "pages/admin/new-post",
+    "_name": "_666c8b26"
+  },
+  {
+    "name": "admin-postId",
+    "path": "/admin/:postId",
+    "component": "C:\\\\Users\\\\doguk\\\\OneDrive\\\\Masaüstü\\\\nuxt-kose-yazisi\\\\pages\\\\admin\\\\_postId\\\\index.vue",
+    "chunkName": "pages/admin/_postId/index",
+    "_name": "_1454b55e"
+  },
+  {
+    "name": "posts-postId",
+    "path": "/posts/:postId",
+    "component": "C:\\\\Users\\\\doguk\\\\OneDrive\\\\Masaüstü\\\\nuxt-kose-yazisi\\\\pages\\\\posts\\\\_postId\\\\index.vue",
+    "chunkName": "pages/posts/_postId/index",
+    "_name": "_4ca0b3d5"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\doguk\\\\OneDrive\\\\Masaüstü\\\\nuxt-kose-yazisi\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_78e46abc"
+  }
+]
